@@ -1,0 +1,18 @@
+{
+ "name": "Moon Dogs",
+ "slug": "moon-dogs",
+ "standard": "TAP DMT (dmt-deploy / dmt-mint)",
+ "ticker": "moondogs",
+ "index_ticker": "dmt-moondogs",
+ "deploy_inscription": "cb472b406d725921187dac54474685b278fd1c6455cce769e0a05e9fad391afei0",
+ "deploy_block": 6464446,
+ "deployer": "DFgGCRVEWQKxk72k6jmvHRMa3Wym1CR79e",
+ "element": "dmt.11.element",
+ "element_inscription": "bc837317c07590a111623f7b622e88fa7240209b6b9a9ee2940a5706ae818749i0",
+ "renderer_inscription": "6579cfaed329d53cbc1dba1f7eaf26a73a2489edeb39e8e791005b591ec28c41i0",
+ "renderer_id_in_deploy": "bf46c68b88e25c7d2956217f4ec4c2720a25d2e47cb596154364d1a213f64a16i0",
+ "renderer_sha256": "df2b04b4340d4ab45c78588049e832659e490601832a7fae0eaeac6677faaaf9",
+ "supply": "open: one per Dogecoin block, the first valid mint wins",
+ "website": "https://doginals.store/dmt/moon-dogs",
+ "explainer": "https://thedoginalsexplorer.com/dmt"
+}
